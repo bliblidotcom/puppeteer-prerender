@@ -1,0 +1,7 @@
+node_modules
+screenshot
+curl.js
+*.log
+processed.txt
+.DS_Store
+.idea
